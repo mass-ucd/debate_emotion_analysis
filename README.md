@@ -14,3 +14,7 @@ We have three different folders with individual analysis of the debate
 - Voice
 - Video
 - Text
+
+The full debate video can be accessed here: https://drive.google.com/file/d/1d3dNyBSXliHWwfkzujKabb-ruXkXS-AS/view?usp=sharing
+
+Note: the file name could change within individual notebooks 
